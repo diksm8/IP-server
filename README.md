@@ -1,2 +1,2 @@
 # IP-server
-Server and client to copy IP
+Server and client combo to copy IP.
